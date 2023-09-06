@@ -1,5 +1,7 @@
 <?php
 
+//ask person to write two numbers
+
 echo "Enter the first number:" . PHP_EOL;
 $firstInt = (int) fgets(STDIN);
 
